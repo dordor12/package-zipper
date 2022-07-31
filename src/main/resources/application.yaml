@@ -4,6 +4,7 @@ springdoc:
   version: "${VERSION:1.0.0}"
   swagger-ui:
     path: "/"
+  tagsSorter: alpha
 spring:
   reactor:
     debug-agent: enabled
